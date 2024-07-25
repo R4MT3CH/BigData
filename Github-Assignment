@@ -1,0 +1,71 @@
+Git Assignment
+
+# 1. How do you initialize a new Git repository named "project1" on your local machine?
+# git init
+
+# How do you add a new file named "index.html" to the "project1" repository?
+# git add index.html
+
+# How do you stage the changes made to "index.html" for committing?
+# git add index.html
+# git commit -m "commit message"
+
+# How do you commit the changes made to "index.html" with a commit message of "Add index.html"?
+# git commit -m "Add index.html"
+
+# How do you view the commit history of the "project1" repository?
+# git log
+
+# How do you create a new branch named "feature-branch" in the "project1" repository?
+# git branch feature-branch
+
+# How do you switch to the "feature-branch" in the "project1" repository?
+# git checkout feature-branch
+
+# How do you make changes to "index.html" in the "feature-branch"?
+# git checkout feature-branch
+# git add index.html
+
+
+# How do you stage and commit the changes made in the "feature-branch" with a commit message of "Update index.html in feature branch"?
+# git commit -m "Update index.html in feature branch"
+
+# How do you switch back to the main branch in the "project1" repository?
+# git checkout main
+
+# How do you merge the changes from the "feature-branch" into the main branch?
+# git merge feature-branch
+# git commit
+
+# How do you resolve any merge conflicts that occur during the merge process?
+# git add <file-with-conflicts>
+
+# How do you view the changes introduced by the merge commit?
+# git show <merge-commit-hash>
+
+# How do you create a new tag named "v1.0" for the current commit in the "project1" repository?
+# git tag v1.0
+
+# How do you push the "project1" repository to a remote repository named "origin"?
+# git push 
+
+# How do you clone the "project1" repository from a remote repository to another machine?
+# git clone https://github.com/username/project1.git
+
+
+# How do you fetch the latest changes from the remote repository to your local "project1" repository?
+# git fetch
+
+
+# How do you pull the latest changes from the remote repository into your current branch in the "project1" repository?
+# git pull
+
+
+# How do you create a new branch named "bug-fix" in the "project1" repository based on a specific commit?
+# git checkout -b bug-fix abc123def456
+
+
+# How do you revert the last commit made in the "project1" repository?
+# git revert HEAD
+
+
