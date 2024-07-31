@@ -1,0 +1,51 @@
+Scala
+1.	What is a trait ? when to use ?  example
+2.	Difference between trait and sealed trait?
+3.	What is an abstract class? 
+4.	What is the difference between  java interface and a scala trait?
+5.	What is a singleton ?
+6.	What is a higher order function?
+7.	What is a closure function
+8.	What is a companion object? What are the advantages ? example
+9.	Nil vs Null vs null vs Nothing vs None vs Unit 
+10.	What is pure function?
+11.	What is SBT and how have you used it? 
+12.	What is currying?
+13.	Difference between currying and higher-order functions
+14.	Difference between var and val?
+15.	What is case class?
+16.	Why/when to use case class? Example
+17.	Difference between case class and normal class?
+18.	Scala type hierarchy?
+19.	What are partially applied functions?
+20.	What is tail recursion.
+
+
+SQL 
+1.	Types of commands and their examples.
+2.	What is Normalization and denormalization?  
+3.	Explain 1NF, 2NF, 3NF.
+4.	Share use case where you had to do denormalization in database..
+5.	What is primary key and foreign key?
+6.	what is alternate and candidate key?
+7.	What are window functions?
+8.	Explain Ranking Functions? GIven a small table , write the output.
+9.	Types of Joins? With example and usecase. All the number of records return and exact records.
+10.	Use case when self join is required.
+11.	What is subquery?
+12.	What is corelated subquery?
+13.	What is CTE? 
+14.	What is derived table?
+15.	Find third highest employee based on salary?
+16.	Find third highest employee based on salary  per department?
+17.	How to find duplicate values in a single column?
+18.	How to find duplicate values in a multiple column?
+19.	What are ACID properties?
+20.	Diff between union and union all
+21.	Diff between primary key and unique key
+22.	Diff between truncate and delete
+23.	Diff between having and where
+24.	SQL query execution order.
+25.	What are indexes? Types of Indexes and their differences.
+26.	What is surrogate key? Give example where you used it and how.
+27.	Ways to optimize sql query?

@@ -22,7 +22,7 @@ def connect_to_database():
 
 # Function to display sales table data
 def display_sales_data(cursor):
-    query = "SELECT * FROM sales"
+    query = "SELECT * FROM sales;"
     cursor.execute(query)
     rows = cursor.fetchall()
     for row in rows:
