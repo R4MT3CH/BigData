@@ -17,7 +17,7 @@ Scala
 16.	Why/when to use case class? Example
 17.	Difference between case class and normal class?
 18.	Scala type hierarchy?
-19.	What are partially applied functions?
+19.	What are partially applied functions? 
 20.	What is tail recursion.
 
 
